@@ -7,7 +7,8 @@
 
 ## I am interested about the position(s)
 
-<!-- Insert the postion or the list of positions you are interested in here -->
+<!-- Check the postion(s) you are interested in -->
+- [ ] Applied AI curriculum lead
 
 ## My motivations
 

@@ -2,10 +2,8 @@
 
 Here the list of our open positions:
 
-- [Senior Software Engineer](senior_swe.md)
-- [Data Analyst/Engineer](data_ae.md)
-- [Curriculum Integrator](curriculum_integrator.md)
-- [Intern Developer assistant](intern_dev_assistant.md)
+- [Applied AI curriculum lead](applied_ai_curriculum_lead.md)
+- [Technical Mentor](technical_mentor.md)
 
 
 [How to apply](../HOWTO.md)
